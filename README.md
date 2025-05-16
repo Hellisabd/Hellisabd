@@ -5,37 +5,25 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hellisabd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hellisabd&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellisabd&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![Streak Stats](https://streak-stats.demolab.com/?user=Hellisabd&theme=tokyonight&hide_border=false)
-
----
-
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Hellisabd&theme=tokyonight&no-frame=false&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellisabd&layout=compact&theme=dracula)
 
 ---
 
 ## 🧠 GitHub Summary Cards
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hellisabd&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hellisabd&theme=dracula)
 
-![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hellisabd&theme=tokyonight)
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hellisabd&theme=dracula)
 
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hellisabd&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hellisabd&theme=dracula)
 
 ---
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-nom-si-tu-en-as-un)
+- 💼 [LinkedIn](https://www.linkedin.com/in/basile-grosjean-60b69a280/)
 - 📧 Email : ton.email@example.com
 
 ---
