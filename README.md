@@ -24,7 +24,7 @@
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/basile-grosjean-60b69a280/)
-- 📧 Email : ton.email@example.com
+- 📧 Email : basile.grosjean@outlook.fr
 
 ---
 
