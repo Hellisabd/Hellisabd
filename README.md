@@ -22,16 +22,6 @@ Every project is an opportunity to grow and improve — and I’m always excited
 
 ---
 
-## 🧠 GitHub Summary Cards
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hellisabd&theme=dracula)
-
-![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hellisabd&theme=dracula)
-
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hellisabd&theme=dracula)
-
----
-
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/basile-grosjean-60b69a280/)
