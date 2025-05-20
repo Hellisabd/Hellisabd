@@ -16,9 +16,9 @@ Every project is an opportunity to grow and improve — and I’m always excited
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hellisabd&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hellisabd&show_icons=true&include_all_commits=true&count_private=true&theme=matrix)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellisabd&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellisabd&layout=compact&theme=matrix)
 
 ---
 
