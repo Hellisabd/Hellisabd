@@ -3,7 +3,7 @@
 
 ---
 
-![Animation game of Life](https://raw.github.com/Hellisabd/game-of-lifeV1/blob/main/animated_game_of_life.svg)
+![Animation game of Life]()
 
 ## 👨‍💻 About Me
 
