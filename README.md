@@ -3,6 +3,8 @@
 
 ---
 
+![Animation game of Life]()
+
 ## 👨‍💻 About Me
 
 I'm passionate about learning, coding, and solving problems.  
