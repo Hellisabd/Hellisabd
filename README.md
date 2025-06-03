@@ -3,6 +3,8 @@
 
 ---
 
+![Animation game of Life](https://hellisabd.github.io/game-of-lifeV1/animated_game_of_life.svg)
+
 
 ## 👨‍💻 About Me
 
